@@ -1,4 +1,18 @@
 welcome to git(7-2-26)
 welcome to git (9-2-26)
 
+<<<<<<< HEAD
 === Code Execution Successful ===
+=======
+welcome to git(5-2-26)
+
+welcome to git(5-2-26) at9.33
+
+welcome to git(5-2-26) at9.49
+
+(6-2-25)
+
+hellow from feature-2 branch and master branch
+
+hellow form feature-2(9-2-26)
+>>>>>>> 38ded1d39d347fdbe533b5175981ce03175e2916
